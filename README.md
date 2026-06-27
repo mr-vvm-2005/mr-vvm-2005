@@ -3,7 +3,7 @@
 
 🌍 From Tenkasi, Tamil Nadu, India  
 🎓 B.Tech IT @ Dr. Sivanthi Aditanar College of Engineering  
-💼 2 Internships | 22+ Certifications | 4 Projects  
+💼 2 Internships | 22+ Certifications | 5+ Projects  
 
 ## 🛠️ Tech Stack
 React | Next.js | Node.js | Python | SQL | Tailwind CSS | Spring Boot
