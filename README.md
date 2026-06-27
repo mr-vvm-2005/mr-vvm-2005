@@ -19,4 +19,4 @@ React | Next.js | Node.js | Python | SQL | Tailwind CSS | Spring Boot
 - 🎓 [CareerNavigator](https://mr-vvm-2005.github.io/Career-Navigator/)
 - 🏫 [College ERP Portal](https://mr-vvm-2005.github.io/my-college-erp/)
 - 📄 [Resume Builder](https://mr-vvm-2005.github.io/Simple-resume-builder-project/)
--    [Wholesales Shop Website ] (https://rsm-traders.netlify.app/)
+- 🛒 [Wholesales Shop Website](https://rsm-traders.netlify.app/)
